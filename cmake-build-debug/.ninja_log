@@ -1,0 +1,18 @@
+# ninja log v5
+1	252	1716194051649362027	CMakeFiles/parallel.dir/main.cpp.o	21dc910bf96167da
+1	341	1716195323049943762	build.ninja	b5793d40cc850e50
+1	334	1716194051729361561	CMakeFiles/parallel.dir/lab3/mainPrallel.cpp.o	ec1ce274b7fc2263
+2	311	1716194214824411025	CMakeFiles/parallel.dir/lab3/main.cpp.o	5fcd5bbb06ffbcbf
+2	340	1716195172290823956	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	2131ea37a9f3ba09
+340	394	1716195172342823652	parallel	4764193c4090c51b
+0	18	1716195323049943762	build.ninja	b5793d40cc850e50
+1	360	1716195323413941637	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	a280c1dfa28d46dc
+360	412	1716195323465941333	parallel	cbf76ba3ab21b1ec
+1	337	1716195330057902845	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	a280c1dfa28d46dc
+337	391	1716195330109902541	parallel	cbf76ba3ab21b1ec
+1	353	1716195339165849667	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	a280c1dfa28d46dc
+353	429	1716195339241849223	parallel	cbf76ba3ab21b1ec
+1	336	1716195360049736033	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	a280c1dfa28d46dc
+336	388	1716195360101735868	parallel	cbf76ba3ab21b1ec
+1	333	1716195425445519619	CMakeFiles/parallel.dir/lab3/mainParallel.cpp.o	a280c1dfa28d46dc
+333	385	1716195425493519453	parallel	cbf76ba3ab21b1ec

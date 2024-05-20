@@ -1,0 +1,3 @@
+/home/lexxv/programming/university/parallel/cmake-build-debug/CMakeFiles/parallel.dir
+/home/lexxv/programming/university/parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lexxv/programming/university/parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
